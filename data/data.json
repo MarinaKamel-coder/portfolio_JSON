@@ -1,0 +1,105 @@
+{
+  "header": {
+    "name": "Marina Kamel",
+    "title": "Développeuse de logiciels",
+    "location": "Canada",
+    "intro": "Passionnée par la création de solutions web modernes et performantes."
+  },
+  "about": {
+    "title": "Salut! 👋",
+    "subtitle": "Je suis Marina,",
+    "description": "Une développeuse de logiciels basée au Canada, passionnée par la création de solutions web modernes et performantes.",
+    "objective": "Poursuivre ma carrière comme Software Developer et travailler sur des projets collaboratifs innovants.",
+    "interests": [
+      "Développement Front-End avec React et JavaScript moderne",
+      "Conception d’interfaces claires et accessibles",
+      "Amélioration continue des performances logicielles",
+      "Collaboration dans des projets agiles et innovants"
+    ]
+  },
+  "experiences": [
+    {
+      "titre": "Adjointe Administrative",
+      "lieu": "Fady Mikhael Comptable, Saint-Hubert, QC",
+      "date": "Mars 2020 – Aujourd’hui",
+      "taches": [
+        "Accueillir et diriger les clients de manière professionnelle.",
+        "Créer et mettre à jour les dossiers clients.",
+        "Effectuer des tests sur les bases de données clients.",
+        "Collaborer à la création d’une page Web.",
+        "Préparer les factures et gérer les paiements."
+      ]
+    },
+    {
+      "titre": "Spécialiste en Support Informatique",
+      "lieu": "7G Seven Group Co., Égypte",
+      "date": "Juin 2018 – Nov. 2019",
+      "taches": [
+        "Répondre aux requêtes des usagers et les documenter.",
+        "Diagnostiquer postes, applications et réseau à distance.",
+        "Tester de nouveaux logiciels et appliquer les correctifs.",
+        "Support de premier niveau aux usagers TI et TIC."
+      ]
+    },
+    {
+      "titre": "Stagiaire en Télécommunication",
+      "lieu": "Orange Égypte",
+      "date": "Juin 2017 – Sep. 2017",
+      "taches": [
+        "Support technique par téléphone et en personne.",
+        "Assister à la création d’outils collaboratifs (SharePoint).",
+        "Participer au déploiement d’applications."
+      ]
+    }
+  ],
+  "formations": [
+    { "titre": "Développement de logiciels", "ecole": "Collège de Maisonneuve, Montréal, QC", "date": "2025 – 2026" },
+    { "titre": "React", "ecole": "Udemy", "date": "2023" },
+    { "titre": "HTML, CSS et JavaScript", "ecole": "Coursera", "date": "2022" },
+    { "titre": "Francisation", "ecole": "Cégep St-Jean-Sur-Richelieu", "date": "2021 – 2022" },
+    { "titre": "Baccalauréat en Ingénierie Informatique", "ecole": "Université de Helwan, Égypte", "date": "2012 – 2018" }
+  ],
+  "competences": {
+    "langages": [
+      {"nom": "HTML5", "niveau": "Avancé"},
+      {"nom": "CSS3", "niveau": "Avancé"},
+      {"nom": "JavaScript", "niveau": "Avancé"},
+      {"nom": "React", "niveau": "Intermédiaire"},
+      {"nom": "JSON", "niveau": "Intermédiaire"},
+      {"nom": "NodeJS", "niveau": "Intermédiaire"},
+      {"nom": "Python", "niveau": "Intermédiaire"},
+      {"nom": "Bootstrap", "niveau": "Intermédiaire"},
+      {"nom": "PHP", "niveau": "Intermédiaire"},
+      {"nom": "C++", "niveau": "Intermédiaire"}
+    ],
+    "logiciels & Bases de données": ["VS Code", "Git", "GitHub","MySQL", "MySQL Workbench", "MongoDB"],
+    "gestion": ["Analyse & résolution de problèmes", "Gestion de projets", "Organisation et priorisation"],
+    "autres": ["Langues : Français, Anglais, Arabe", "Outils : Word, Excel, PowerPoint, Project, Outlook", "Collaboratifs : SharePoint"]
+  },
+  "projets": [
+    {
+      "titre": "Site Portfolio",
+      "description": "Un site web personnel pour présenter mes projets et expériences.",
+      "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+      "lien": "https://github.com/MarinaKamel-coder/portfolio"
+    },
+    {
+      "titre": "Application de Gestion de Comptes",
+      "description": "Une application Python pour gérer un budget personnel et les transactions.",
+      "technologies": ["Python", "CSV", "Tkinter"],
+      "lien": "https://github.com/MarinaKamel-coder/piledger"
+    },
+    {
+      "titre": "Projet React",
+      "description": "Une application web dynamique utilisant React pour l’affichage et la manipulation de données.",
+      "technologies": ["React", "API REST", "Bootstrap"],
+      "lien": "#"
+    }
+  ],
+  "contact": {
+    "email": "marinakamel909@gmail.com",
+    "tel": "+1 (514) 562-6037",
+    "linkedin": "https://www.linkedin.com/in/marina-kamel-a7a08a240/",
+    "github": "https://github.com/MarinaKamel-coder"
+  }
+}
