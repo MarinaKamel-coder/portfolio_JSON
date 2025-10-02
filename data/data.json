@@ -79,7 +79,7 @@
   "projets": [
     {
       "titre": "Portfolio Personnel",
-      "description": "Un site web personnel pour me présenter",
+      "description": "Site web moderne pour présenter mes expériences et compétences de manière claire et attractive.",
       "technologies": ["HTML", "CSS", "JavaScript"],
       "lien": "https://marinakamel-coder.github.io/portfolio/"
     },

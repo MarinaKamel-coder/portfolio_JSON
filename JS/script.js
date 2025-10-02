@@ -173,6 +173,17 @@ async function loadPortfolio() {
       contactSection.appendChild(li);
     }
 
+    const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
+    navLinks.forEach(link => {
+      link.addEventListener('click', () => {
+        const navbarCollapse = document.querySelector('.navbar-collapse');
+        if (navbarCollapse.classList.contains('show')) {
+          const bsCollapse = new bootstrap.Collapse(navbarCollapse, { toggle: true });
+          bsCollapse.hide();
+        }
+      });
+    });
+
   } catch (err) {
     console.error("Erreur lors du chargement du portfolio :", err);
   }
