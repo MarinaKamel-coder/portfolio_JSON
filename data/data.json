@@ -78,23 +78,30 @@
   },
   "projets": [
     {
-      "titre": "Site Portfolio",
-      "description": "Un site web personnel pour présenter mes projets et expériences.",
-      "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap"],
-      "lien": "https://github.com/MarinaKamel-coder/portfolio"
+      "titre": "Portfolio Personnel",
+      "description": "Un site web personnel pour me présenter",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "lien": "https://marinakamel-coder.github.io/portfolio/"
+    },
+    {
+      "titre": "Événement Niagara",
+      "description": "Application web interactive pour gérer et présenter un événement mémorable aux chutes du Niagara, avec une interface conviviale et responsive.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "lien": "https://marinakamel-coder.github.io/Niagara_event/"
+    },
+    {
+      "titre": "Catalogue d’Épices",
+      "description": "Application web dynamique pour afficher et gérer un catalogue d’épices sur un serveur, avec filtrage et recherche efficaces.",
+      "technologies": ["HTML", "CSS", "JavaScript","JSON","Bootstrap"],
+      "lien": "https://app-epices.onrender.com/"
     },
     {
       "titre": "Application de Gestion de Comptes",
-      "description": "Une application Python pour gérer un budget personnel et les transactions.",
-      "technologies": ["Python", "CSV", "Tkinter"],
-      "lien": "https://github.com/MarinaKamel-coder/piledger"
-    },
-    {
-      "titre": "Projet React",
-      "description": "Une application web dynamique utilisant React pour l’affichage et la manipulation de données.",
-      "technologies": ["React", "API REST", "Bootstrap"],
-      "lien": "#"
+      "description": "Application Python permettant de gérer les comptes, suivre les transactions et visualiser les dépenses, pour un contrôle complet du budget.",
+      "technologies": ["Python", "CSV"],
+      "lien": "https://github.com/MarinaKamel-coder/tp2-marina"
     }
+
   ],
   "contact": {
     "email": "marinakamel909@gmail.com",

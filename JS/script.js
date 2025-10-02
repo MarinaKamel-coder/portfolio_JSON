@@ -27,6 +27,7 @@ async function loadPortfolio() {
     function addSectionTitle(container, title, iconClass) {
       const h2 = document.createElement("h2");
       h2.className = "mb-3";
+      h2.id = title.toLowerCase();
       h2.innerHTML = `<i class="${iconClass} me-2"></i> ${title}`;
       container.prepend(h2);
     }
@@ -52,7 +53,7 @@ async function loadPortfolio() {
     addSectionTitle(expContainer, "Expériences", "fas fa-briefcase");
     data.experiences.forEach(exp => {
       const card = document.createElement("div");
-      card.className = "card mb-4 shadow-sm border-start border-4 border-primary";
+      card.className = "card mb-4 shadow-sm";
       card.innerHTML = `
         <div class="card-body">
           <h5 class="card-title">${exp.titre}</h5>
