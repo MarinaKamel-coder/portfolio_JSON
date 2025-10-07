@@ -30,3 +30,8 @@ Bienvenue sur mon portfolio interactif ! Ce projet présente mon parcours, mes c
 - `data/` : Dossier contenant les fichiers JSON des données
 
 ---
+## 🚀 Déploiement
+
+Le site est déployé en ligne via GitHub Pages. Vous pouvez y accéder à l'adresse suivante :
+
+[https://marinakamel-coder.github.io/portfolio/]
