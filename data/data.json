@@ -8,20 +8,20 @@
   "about": {
     "title": "Salut! 👋",
     "subtitle": "Je suis Marina,",
-    "description": "Une développeuse de logiciels basée au Canada, passionnée par la création de solutions web modernes et performantes.",
+    "description": "Développeuse Full-Stack, passionnée par la création d'applications web, mobiles et de bureau. Maîtrise des frameworks modernes tels que React et Next.js ainsi que du développement backend avec Node.js  Reconnue pour ma capacité à résoudre des problèmes complexes, mon esprit de collaboration et mon expérience en environnement Agile (Scrum).",
     "objective": "Poursuivre ma carrière comme Software Developer et travailler sur des projets collaboratifs innovants.",
     "interests": [
-      "Développement Front-End avec React et JavaScript moderne",
+      "Développement Front-End avec React/Next.js et TypeScript moderne",
       "Conception d’interfaces claires et accessibles",
       "Amélioration continue des performances logicielles",
-      "Collaboration dans des projets agiles et innovants"
+      "Collaboration dans des projets agiles (Scrum) et innovants"
     ]
   },
   "experiences": [
     {
       "titre": "Adjointe Administrative",
       "lieu": "Fady Mikhael Comptable, Saint-Hubert, QC",
-      "date": "Mars 2020 – Aujourd’hui",
+      "date": "Mars 2020 – Mai 2025",
       "taches": [
         "Accueillir et diriger les clients de manière professionnelle.",
         "Créer et mettre à jour les dossiers clients.",
@@ -54,43 +54,52 @@
   ],
   "formations": [
     { "titre": "Développement de logiciels", "ecole": "Collège de Maisonneuve, Montréal, QC", "date": "2025 – 2026" },
-    { "titre": "React", "ecole": "Udemy", "date": "2023" },
-    { "titre": "HTML, CSS et JavaScript", "ecole": "Coursera", "date": "2022" },
+    { "titre": "HTML, CSS, JavaScript et React", "ecole": "Udemy", "date": "2023 -2024" },
     { "titre": "Francisation", "ecole": "Cégep St-Jean-Sur-Richelieu", "date": "2021 – 2022" },
     { "titre": "Baccalauréat en Ingénierie Informatique", "ecole": "Université de Helwan, Égypte", "date": "2012 – 2018" }
   ],
   "competences": {
-    "langages": [
+    "Développement Frontend": [
       {"nom": "HTML5", "niveau": "Avancé"},
       {"nom": "CSS3", "niveau": "Avancé"},
       {"nom": "JavaScript", "niveau": "Avancé"},
-      {"nom": "React", "niveau": "Intermédiaire"},
-      {"nom": "JSON", "niveau": "Intermédiaire"},
-      {"nom": "NodeJS", "niveau": "Intermédiaire"},
-      {"nom": "Python", "niveau": "Intermédiaire"},
-      {"nom": "Bootstrap", "niveau": "Intermédiaire"},
-      {"nom": "PHP", "niveau": "Intermédiaire"},
-      {"nom": "C++", "niveau": "Intermédiaire"}
+      {"nom": "TypeScript", "niveau": "Avancé"},
+      {"nom": "React", "niveau": "Avancé"},
+      {"nom": "Next.js", "niveau": "Avancé"}
     ],
-    "logiciels & Bases de données": ["VS Code", "Git", "GitHub","MySQL", "MySQL Workbench", "MongoDB"],
-    "gestion": ["Analyse & résolution de problèmes", "Gestion de projets", "Organisation et priorisation"],
-    "autres": ["Langues : Français, Anglais, Arabe", "Outils : Word, Excel, PowerPoint, Project, Outlook", "Collaboratifs : SharePoint"]
+    "Développement Backend & API":[
+      {"nom": "Node.js", "niveau": "Avancé"},
+      {"nom": "Rust", "niveau": "Intermédiaire"},
+      {"nom": "REST API", "niveau": "Avancé"},
+      {"nom": "JWT (Authentification)", "niveau": "Avancé"},
+      {"nom": "Clerk (Authentification)", "niveau": "Avancé"},
+      {"nom": "Stackauth (Authentification)", "niveau": "Intermédiaire"}
+    ],
+    "Applications de Bureau ":[
+      {"nom": "Python (PyQt, Tkinter)", "niveau": "Avancé"},
+      {"nom": "Java (JavaFX, Scene Builder)", "niveau": "Avancé"}
+    ],
+    "Bases de données": ["MySQL", "SQL", "PostgreSQL","Neon DB","MongoDB","MySQL Workbench"],
+    "logiciels & IDE": ["VS Code", "IntelliJ IDEA", "Git","GitHub"],
+    "Gestion & Agilité": ["Méthodologie Agile (Scrum)", "Planification de Sprints", "Gestion du Backlog (GitHub Projects","Rédaction de User Stories","Communication proactive"],
+    "Gestion & Organisation": ["Analyse & résolution de problèmes", "Gestion de projets", "Organisation et priorisation"],
+    "Autres": ["Langues : Français, Anglais, Arabe", "Outils : Word, Excel, PowerPoint, Project, Outlook", "Collaboratifs : SharePoint"]
   },
   "projets": [
     {
-      "titre": "Portfolio Personnel",
+      "titre": "👤 Portfolio Personnel",
       "description": "Site web moderne pour présenter mes expériences et compétences de manière claire et attractive.",
       "technologies": ["HTML", "CSS", "JavaScript"],
       "lien": "https://marinakamel-coder.github.io/portfolio/"
     },
     {
-      "titre": "Événement Niagara",
+      "titre": "🌊 Événement Niagara ",
       "description": "Application web interactive pour gérer et présenter un événement mémorable aux chutes du Niagara, avec une interface conviviale et responsive.",
       "technologies": ["HTML", "CSS", "JavaScript"],
       "lien": "https://marinakamel-coder.github.io/Niagara_event/"
     },
     {
-      "titre": "Catalogue d’Épices",
+      "titre": "🌶️ Catalogue d’Épice",
       "description": "Application web dynamique pour afficher et gérer un catalogue d’épices sur un serveur, avec filtrage et recherche efficaces.",
       "technologies": ["HTML", "CSS", "JavaScript","JSON","Bootstrap"],
       "lien": "https://app-epices.onrender.com/"
@@ -100,6 +109,36 @@
       "description": "Application Python permettant de gérer les comptes, suivre les transactions et visualiser les dépenses, pour un contrôle complet du budget.",
       "technologies": ["Python", "CSV"],
       "lien": "https://github.com/MarinaKamel-coder/tp2-marina"
+    },
+        {
+      "titre": "📁 Gestionnaire de Cabinet Comptable",
+      "description": "Une application de bureau robuste et intuitive développée en Python 3 avec le framework PyQt6. Ce logiciel permet de centraliser la gestion des clients et des employés (comptables) pour optimiser le suivi des dossiers fiscaux.",
+      "technologies": ["Python", "PyQt6"],
+      "lien": "https://github.com/MarinaKamel-coder/CADS-desktop.git"
+    },
+    {
+      "titre": "📊 CADS - Client Accounting Data Store",
+      "description": "CADS est une solution de gestion comptable centralisée conçue pour automatiser le suivi des dossiers clients, la gestion des alertes fiscales et le stockage sécurisé des documents,développé en React/typeScript & Node.js.",
+      "technologies": ["React", "Node.js","TypeScript","Clerk"],
+      "lien": "https://github.com/MarinaKamel-coder/Jeu-Cache-Objets.git"
+    },
+      {
+      "titre": "🎓 ApprentisSage - Plateforme E-Learning",
+      "description": "Plateforme d'apprentissage en ligne (LMS) complète qui centralise la gestion des cours et le suivi pédagogique. Elle offre une expérience sur-mesure grâce à deux interfaces distinctes : un portail pour les Étudiants (Apprentis) et un tableau de bord avancé pour les Enseignants.",
+      "technologies": ["React", "Node.js","TypeScript"],
+      "lien": "https://github.com/A25-DDS/rouge.git"
+    },
+    {
+      "titre": "🌱 GreenCommute",
+      "description": "Plateforme de covoiturage écologique. Calculez l'impact CO2, gérez les réservations et créez une communauté engagée.",
+      "technologies": ["React", "Node.js","TypeScript"],
+      "lien": "https://github.com/MarinaKamel-coder/GreenCommute.git"
+    },
+    {
+      "titre": "🔍 Jeu de Cache-Objet - Mystère du Pont",
+      "description": "Un jeu interactif de recherche d'objets cachés développé en JavaFX. Trouvez les 12 objets dissimulés dans le décor avant la fin du chronomètre!",
+      "technologies": ["JavaFX"],
+      "lien": "https://github.com/MarinaKamel-coder/Jeu-Cache-Objets.git"
     }
 
   ],
