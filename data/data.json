@@ -137,12 +137,6 @@
       "lien": "https://github.com/MarinaKamel-coder/GreenCommute.git"
     },
     {
-      "titre": "🔍 Jeu de Cache-Objet - Mystère du Pont",
-      "description": "Un jeu interactif de recherche d'objets cachés développé en JavaFX. Trouvez les 12 objets dissimulés dans le décor avant la fin du chronomètre!",
-      "technologies": ["JavaFX"],
-      "lien": "https://github.com/MarinaKamel-coder/Jeu-Cache-Objets.git"
-    },
-    {
       "titre": "📦 MyInventory - Gestion d’inventaire mobile",
       "description": "Application mobile facilitant la gestion d'inventaire via codes QR et exportations PDF pour les déménagements.",
       "technologies": ["Flutter", "Dart", "QR Code API"],
