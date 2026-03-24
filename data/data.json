@@ -8,7 +8,7 @@
   "about": {
     "title": "Salut! 👋",
     "subtitle": "Je suis Marina,",
-    "description": "Développeuse Full-Stack, passionnée par la création d'applications web, mobiles et de bureau. Maîtrise des frameworks modernes tels que React et Next.js ainsi que du développement backend avec Node.js  Reconnue pour ma capacité à résoudre des problèmes complexes, mon esprit de collaboration et mon expérience en environnement Agile (Scrum).",
+    "description": "Développeuse Full-Stack passionnée par la création d'applications web, mobiles et de bureau. Maîtrise des frameworks modernes tels que React, Next.js et Flutter, ainsi que dudéveloppement backend avec Node.js et la conteneurisation avec Docker. Reconnue pour ma capacité à résoudre des problèmes complexes, mon esprit de collaboration et mon expérience en environnement Agile (Scrum).",
     "objective": "Poursuivre ma carrière comme Software Developer et travailler sur des projets collaboratifs innovants.",
     "interests": [
       "Développement Front-End avec React/Next.js et TypeScript moderne",
@@ -59,13 +59,15 @@
     { "titre": "Baccalauréat en Ingénierie Informatique", "ecole": "Université de Helwan, Égypte", "date": "2012 – 2018" }
   ],
   "competences": {
-    "Développement Frontend": [
+    "Développement Frontend & Mobile": [
       {"nom": "HTML5", "niveau": "Avancé"},
       {"nom": "CSS3", "niveau": "Avancé"},
       {"nom": "JavaScript", "niveau": "Avancé"},
       {"nom": "TypeScript", "niveau": "Avancé"},
       {"nom": "React", "niveau": "Avancé"},
-      {"nom": "Next.js", "niveau": "Avancé"}
+      {"nom": "Next.js", "niveau": "Avancé"},
+      {"nom": "Flutter", "niveau": "Avancé"},
+      {"nom": "Dart", "niveau": "Avancé"}
     ],
     "Développement Backend & API":[
       {"nom": "Node.js", "niveau": "Avancé"},
@@ -80,7 +82,7 @@
       {"nom": "Java (JavaFX, Scene Builder)", "niveau": "Avancé"}
     ],
     "Bases de données": ["MySQL", "SQL", "PostgreSQL","Neon DB","MongoDB","MySQL Workbench"],
-    "logiciels & IDE": ["VS Code", "IntelliJ IDEA", "Git","GitHub"],
+    "Outils & DevOps": ["VS Code", "IntelliJ IDEA", "Git","GitHub", "Docker", "CI/CD (GitHub Actions)"],
     "Gestion & Agilité": ["Méthodologie Agile (Scrum)", "Planification de Sprints", "Gestion du Backlog (GitHub Projects","Rédaction de User Stories","Communication proactive"],
     "Gestion & Organisation": ["Analyse & résolution de problèmes", "Gestion de projets", "Organisation et priorisation"],
     "Autres": ["Langues : Français, Anglais, Arabe", "Outils : Word, Excel, PowerPoint, Project, Outlook", "Collaboratifs : SharePoint"]
@@ -139,6 +141,12 @@
       "description": "Un jeu interactif de recherche d'objets cachés développé en JavaFX. Trouvez les 12 objets dissimulés dans le décor avant la fin du chronomètre!",
       "technologies": ["JavaFX"],
       "lien": "https://github.com/MarinaKamel-coder/Jeu-Cache-Objets.git"
+    },
+    {
+      "titre": "📦 MyInventory - Gestion d’inventaire mobile",
+      "description": "Application mobile facilitant la gestion d'inventaire via codes QR et exportations PDF pour les déménagements.",
+      "technologies": ["Flutter", "Dart", "QR Code API"],
+      "lien": "https://github.com/MarinaKamel-coder/MyInventory.git"
     }
 
   ],
