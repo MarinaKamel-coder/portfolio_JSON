@@ -107,16 +107,10 @@
       "lien": "https://app-epices.onrender.com/"
     },
     {
-      "titre": "Application de Gestion de Comptes",
-      "description": "Application Python permettant de gérer les comptes, suivre les transactions et visualiser les dépenses, pour un contrôle complet du budget.",
-      "technologies": ["Python", "CSV"],
-      "lien": "https://github.com/MarinaKamel-coder/tp2-marina"
-    },
-        {
-      "titre": "📁 Gestionnaire de Cabinet Comptable",
-      "description": "Une application de bureau robuste et intuitive développée en Python 3 avec le framework PyQt6. Ce logiciel permet de centraliser la gestion des clients et des employés (comptables) pour optimiser le suivi des dossiers fiscaux.",
-      "technologies": ["Python", "PyQt6"],
-      "lien": "https://github.com/MarinaKamel-coder/CADS-desktop.git"
+      "titre": "📝 Tax Manager - Gestion Fiscale",
+      "description": "Application web full-stack permettant la gestion des dossiers fiscaux, l'upload sécurisé de documents et le suivi du statut des demandes en temps réel. Inclut un tableau de bord admin et un mode sombre.",
+      "technologies": ["Next.js", "TypeScript", "Prisma", "UploadThing", "Tailwind CSS"],
+      "lien": "https://fadymikhail.vercel.app"
     },
     {
       "titre": "📊 CADS - Client Accounting Data Store",
@@ -136,6 +130,12 @@
       "technologies": ["React", "Node.js","TypeScript"],
       "lien": "https://github.com/MarinaKamel-coder/GreenCommute.git"
     },
+        {
+      "titre": "📁 Gestionnaire de Cabinet Comptable",
+      "description": "Une application de bureau robuste et intuitive développée en Python 3 avec le framework PyQt6. Ce logiciel permet de centraliser la gestion des clients et des employés (comptables) pour optimiser le suivi des dossiers fiscaux.",
+      "technologies": ["Python", "PyQt6"],
+      "lien": "https://github.com/MarinaKamel-coder/CADS-desktop.git"
+    },
     {
       "titre": "📦 MyInventory - Gestion d’inventaire mobile",
       "description": "Application mobile facilitant la gestion d'inventaire via codes QR et exportations PDF pour les déménagements.",
@@ -147,7 +147,7 @@
   "contact": {
     "email": "marinakamel909@gmail.com",
     "tel": "+1 (514) 562-6037",
-    "linkedin": "https://www.linkedin.com/in/marina-kamel-a7a08a240/",
+    "linkedin": "https://www.linkedin.com/in/marina-kamel-a7a08a240",
     "github": "https://github.com/MarinaKamel-coder"
   }
 }
