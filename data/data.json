@@ -116,7 +116,7 @@
       "titre": "📊 CADS - Client Accounting Data Store",
       "description": "CADS est une solution de gestion comptable centralisée conçue pour automatiser le suivi des dossiers clients, la gestion des alertes fiscales et le stockage sécurisé des documents,développé en React/typeScript & Node.js.",
       "technologies": ["React", "Node.js","TypeScript","Clerk"],
-      "lien": "https://github.com/MarinaKamel-coder/Jeu-Cache-Objets.git"
+      "lien": "https://cads-trust.vercel.app"
     },
       {
       "titre": "🎓 ApprentisSage - Plateforme E-Learning",
