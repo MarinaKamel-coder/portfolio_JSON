@@ -122,7 +122,7 @@
       "titre": "🎓 ApprentisSage - Plateforme E-Learning",
       "description": "Plateforme d'apprentissage en ligne (LMS) complète qui centralise la gestion des cours et le suivi pédagogique. Elle offre une expérience sur-mesure grâce à deux interfaces distinctes : un portail pour les Étudiants (Apprentis) et un tableau de bord avancé pour les Enseignants.",
       "technologies": ["React", "Node.js","TypeScript"],
-      "lien": "https://github.com/A25-DDS/rouge.git"
+      "lien": "https://github.com/MarinaKamel-coder/Apprentissage.git"
     },
     {
       "titre": "🌱 GreenCommute",
@@ -140,7 +140,7 @@
       "titre": "📦 MyInventory - Gestion d’inventaire mobile",
       "description": "Application mobile facilitant la gestion d'inventaire via codes QR et exportations PDF pour les déménagements.",
       "technologies": ["Flutter", "Dart", "QR Code API"],
-      "lien": "https://github.com/MarinaKamel-coder/MyInventory.git"
+      "lien": "https://github.com/MarinaKamel-coder/myinventory.git"
     }
 
   ],
